@@ -1,2 +1,2 @@
 print("ahoj github")
-print("iba sjusam commit")
+print("iba skusam commit")
